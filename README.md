@@ -144,9 +144,9 @@ streamlit run app.py
 
 ## 📬 Author Info
 
-**Sivaprasad T.R**
-📧 Email: [sivaprasadtrwork@gmail.com](mailto:sivaprasadtrwork@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sivaprasad-t-r)
+**Sivaprasad T.R**  
+📧 Email: sivaprasadtrwork@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sivaprasad-t-r)  
 💻 [GitHub](https://github.com/Sivaprasad-creator)
 
 ---
