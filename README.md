@@ -93,7 +93,9 @@ The Streamlit web application allows users to:
 
 ## 🖥️ Deployment Preview
 
-![image alt](https://github.com/Sivaprasad-creator/Personality-Prediction/blob/main/personality.png)
+![image alt](Extrovert.png)
+
+![image alt](Introvert.png)
 
 ---
 
