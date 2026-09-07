@@ -1,0 +1,54 @@
+Stage Fear
+
+Extroverts: 1,312 have No stage fear, while only 105 have stage fear.
+Introverts: 986 have stage fear, while only 109 have No stage fear.
+This shows a strong relationship between personality and stage fear.
+Extroverts generally appear more confident in public situations, while introverts are more likely to experience stage fear.
+
+Drained After Socializing
+Extroverts: 1,312 are not drained after socializing, while 105 are drained.
+Introverts: 984 are drained after socializing, while 111 are not.
+This indicates that introverts are more likely to feel mentally tired after social interaction.
+Extroverts generally seem to handle social interaction more comfortably.
+
+Time Spent Alone
+Most people spend 0–3 hours alone (1,336).
+Extroverts: 1,259 spend 0–3 hours alone.
+Introverts: 488 spend 8–11 hours alone.
+Introverts clearly tend to spend more time alone, while extroverts prefer less alone time.
+There is a strong association between time spent alone and personality type.
+
+Social Event Attendance
+Most people attend social events for 0–3 hours (1,107).
+Extroverts: 891 spend 4–7 hours and 404 spend 8–10 hours at social events.
+Introverts: 985 spend only 0–3 hours at social events.
+Extroverts show a much higher tendency to spend longer periods at social events.
+Introverts generally prefer shorter social interactions.
+
+Going Outside
+Most people go outside for 0–2 hours (1,065).
+Extroverts: 867 spend 3–5 hours outside and 446 spend 6–7 hours.
+Introverts: 961 spend only 0–2 hours outside.
+Extroverts generally spend more time outside, while introverts tend to spend less time outside.
+Going-out duration appears to be a useful indicator of personality.
+
+Friends Circle Size
+The largest overall group has a friend circle of 0–5 people (1,181).
+Extroverts: 696 have 6–10 friends and 522 have 11–15 friends.
+Introverts: 982 have only 0–5 friends.
+Extroverts tend to have larger friend circles.
+Introverts are more likely to maintain a smaller social circle.
+
+Post Frequency
+Most people post 0–3 times (1,270).
+Extroverts: 785 post 4–7 times and 353 post 8–10 times.
+Introverts: 991 post only 0–3 times.
+Extroverts appear to be more active on social media.
+Introverts generally have lower posting frequency.
+
+Overall Key Insights
+Extroverts: Less stage fear, less drained after socializing, less time alone, more social-event attendance, more time outside, larger friend circles, and higher social-media activity.
+Introverts: More stage fear, more likely to feel drained after socializing, more time alone, shorter social-event attendance, less time outside, smaller friend circles, and lower posting frequency.
+The data shows clear behavioral differences between extroverts and introverts.
+Features such as Time Spent Alone, Social Event Attendance, Going Outside, Friends Circle Size, and Stage Fear appear particularly useful for predicting personality.
+Overall, the results suggest that social behavior and lifestyle patterns are strongly associated with personality type.
