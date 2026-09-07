@@ -1,6 +1,6 @@
 # 🧠 Personality Prediction System
 
-![image alt](https://github.com/Sivaprasad-creator/Personality-Prediction/blob/main/personality.png)
+![image alt](inrovert_extrovert_quiz.jpg)
 
 ---
 
