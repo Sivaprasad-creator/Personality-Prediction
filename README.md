@@ -1,5 +1,7 @@
 # 🧠 Personality Prediction System
 
+---
+
 ![image alt](inrovert_extrovert_quiz.jpg)
 
 ---
@@ -94,6 +96,8 @@ The Streamlit web application allows users to:
 ## 🖥️ Deployment Preview
 
 ![image alt](Extrovert.png)
+
+---
 
 ![image alt](Introvert.png)
 
